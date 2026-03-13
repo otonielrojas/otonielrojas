@@ -23,7 +23,7 @@ Featured projects:
 
 - **[spendable](https://github.com/otonielrojas/spendable)** — A clean, mobile-first app to help answer: *How much can I safely spend right now?* (TypeScript)
 - **[visual-music-learning](https://github.com/otonielrojas/visual-music-learning)** — Interactive tool bridging music education and code (Svelte)
-- **[css-playground](https://github.com/otonielrojas/css-playground)** — A personal sandbox for CSS experiments and style explorations
+- **[formless](https://github.com/otonielrojas/formless)** — Replace your forms with a conversation. AI-powered intake platform that turns plain English into structured data (TypeScript · Supabase)
 
 All my repositories: [github.com/otonielrojas](https://github.com/otonielrojas)
 
