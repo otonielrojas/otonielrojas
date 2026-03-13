@@ -54,6 +54,7 @@ Recent pieces explore gratitude, memory, seasonal light, and the fusion of human
 
 <p align="center">
   <a href="https://otonielrojas.info"><img src="https://img.shields.io/badge/Website-otonielrojas.info-informational?style=for-the-badge&logoColor=white" alt="Website"></a>
+  <a href="https://linkedin.com/in/otonielrojas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@otonielrojas"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://dev.to/otoniel_rojas_a416bb9a595"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
 </p>
