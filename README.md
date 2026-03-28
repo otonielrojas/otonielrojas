@@ -16,7 +16,7 @@ I create practical and creative web applications, often blending technology with
 
 **Featured Projects**
 
-- **[formless](https://github.com/otonielrojas/formless)** — Enterprise intake platform that replaces forms with conversation. Employees submit tickets, requests, and reports in plain English — AI extracts, validates, and routes structured data automatically. (Next.js · Claude API · Supabase)
+- **[formless](https://github.com/otonielrojas/formless)** — Intake platform for operations teams. Employees submit tickets, requests, and reports in plain English — AI extracts, validates, and routes structured data automatically. (Next.js · Claude API · Supabase)
 
 - **[spendable](https://github.com/otonielrojas/spendable)** — A clean, mobile-first app to help answer: *How much can I safely spend right now?* (TypeScript)
 
